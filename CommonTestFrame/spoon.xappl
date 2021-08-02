@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration version="10.4" appVersion="10.4.2380" publisher="Spoon">
+  <Expiration daysLimit="0" expirationDate="2099-01-01T00:00:00Z" expirationWarningDays="0">
+    <ExpiredMessage>The evaluation period for this application has expired. Please contact your system administrator or the application publisher for assistance.</ExpiredMessage>
+    <ExpirationWarning>This application will expire in %d days.</ExpirationWarning>
+    <UnreachableWarning>The current time could not be validated with the time server. Please check your network connection and try again.</UnreachableWarning>
+  </Expiration>
+  <Output diagnosticMode="false" sourcePackage="" />
+  <Msi outputMsiPath="" title="" subject="" keywords="" productName="" productVersion="" manufacturer="" productLanguage="1033" author="" description="" manufacturerUrl="" autoBuild="False" isolatePerUser="True" applicationFolder="" upgradePreviousVersion="True" productCode="{6CADE354-341F-4BF9-9A41-32F2479A908F}" upgradeCode="{F6DCE085-4159-43CB-B40F-0E38BB4B4CC1}" componentId="{404DDB29-6F03-4653-8331-F00527D61202}" />
+  <Packages trimDotNet="True">
+    <DirectX />
+    <Java />
+    <Package name="MSNet" platform="x86" version="2.0.50727" />
+  </Packages>
+  <VirtualizationSettings enabled="True" suppressBranding="True" suppressLogging="False" deleteSandbox="False" shutdownProcessTree="False" enhancedDEPCompatibility="False" notifyProcessStarts="False" enableLegacySecurityPassthrough="False" trimUACManifest="False" forceReadShareFiles="False" isolateWindowClasses="False" readOnlyVirtualization="False" disableXenocodeCommandLine="False" subsystem="Inherit" targetArchitecture="x86" sandboxPath="@APPDATALOCAL@\Spoon\Sandbox\@TITLE@\@VERSION@" exeOptimization="False" compressPayload="False" forceIndicateRunningElevated="False" launchChildProcsAsUser="False" enableDRMCompatibility="False" faultExecutablesIntoSandbox="False" minSandboxSpaceAvail="-1" honorWow6464AccessFlag="False" suppressPopups="False" hideShellWindow="False">
+    <ChildProcessVirtualization spawnVm="true" spawnExternalComServers="false" />
+  </VirtualizationSettings>
+  <XLayers xlayerSearchPattern="" />
+  <NamedObjectIsolation enabled="False" />
+  <Dns />
+  <EnvironmentStats />
+  <WorkingDirectory option="StartupFileDirectory" specifiedDirectory="@APPDIR@" />
+  <StartupShims />
+  <ActiveDirectory />
+  <CustomMetadata />
+  <StandardMetadata />
+  <SplashImage path="" transparency="Magenta" seconds="6" />
+  <StartupFiles>
+    <StartupFile node="@APPDIR@\CommonTest.exe" tag="" commandLine="" default="True" />
+  </StartupFiles>
+  <Layers>
+    <Layer name="Default">
+      <Filesystem>
+        <Directory rootType="Application" isolation="Merge" noSync="False">
+          <File name="CommonTest.exe" hide="False" isolation="Full" source="..\CommonTest\CommonTest.exe" readOnly="False" upgradeable="True" />
+        </Directory>
+        <Directory rootType="OS" isolation="Merge" noSync="False" />
+        <Directory rootType="SysDrive" isolation="Merge" noSync="False" />
+        <Directory rootType="ProgramFiles" isolation="Merge" noSync="False" />
+        <Directory rootType="ProgramFilesCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="ProgramFilesX86" isolation="Merge" noSync="False" />
+        <Directory rootType="ProgramFilesCommonX86" isolation="Merge" noSync="False" />
+        <Directory rootType="System" isolation="Merge" noSync="False" />
+        <Directory rootType="SysWOW64" isolation="Merge" noSync="False" />
+        <Directory rootType="AppDataLocal" isolation="Merge" noSync="False" />
+        <Directory rootType="AppData" isolation="Merge" noSync="False" />
+        <Directory rootType="Startup" isolation="Merge" noSync="False" />
+        <Directory rootType="Programs" isolation="Merge" noSync="False" />
+        <Directory rootType="StartMenu" isolation="Merge" noSync="False" />
+        <Directory rootType="Desktop" isolation="Merge" noSync="False" />
+        <Directory rootType="Templates" isolation="Merge" noSync="False" />
+        <Directory rootType="Favorites" isolation="Merge" noSync="False" />
+        <Directory rootType="Documents" isolation="Merge" noSync="False" />
+        <Directory rootType="Music" isolation="Merge" noSync="False" />
+        <Directory rootType="Pictures" isolation="Merge" noSync="False" />
+        <Directory rootType="Profile" isolation="Merge" noSync="False" />
+        <Directory rootType="AppDataCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="StartupCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="ProgramsCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="StartMenuCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="DesktopCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="TemplatesCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="FavoritesCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="DocumentsCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="MusicCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="PicturesCommon" isolation="Merge" noSync="False" />
+        <Directory rootType="ProfileCommon" isolation="Merge" noSync="False" />
+      </Filesystem>
+      <Registry>
+        <Key isolation="Merge" rootType="ClassesRoot" />
+        <Key isolation="Merge" rootType="CurrentUser" />
+        <Key isolation="Merge" rootType="LocalMachine" />
+        <Key isolation="Merge" rootType="Users" />
+      </Registry>
+      <EnvironmentVariables />
+      <Services />
+      <Shortcuts>
+        <Folder name="Desktop" />
+        <Folder name="Programs Menu" />
+        <Folder name="SendTo" />
+      </Shortcuts>
+      <ProgIds />
+      <Extensions />
+      <DefaultPrograms />
+      <SnapshotDirectories />
+    </Layer>
+  </Layers>
+  <Publishers>
+    <Usb />
+  </Publishers>
+  <HarvestSettings />
+  <Id value="{E28C6F80-E869-49BB-98CD-3185424D6660}" />
+  <OutputLocation value="..\CommonTest" />
+  <OutputFile value="CommonTest_V.exe" />
+  <ProjectType value="Application" />
+</Configuration>

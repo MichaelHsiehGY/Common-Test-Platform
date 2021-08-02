@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommonTest>
+  <Setting>
+    <RootPath>D:\work\project\MP210x\MP210XTestPlan</RootPath>
+    <IsStopWhenFailed>True</IsStopWhenFailed>
+    <IsSaveToCSV>True</IsSaveToCSV>
+    <IsSaveToTxt>True</IsSaveToTxt>
+    <IsAllowManualInput_SN>True</IsAllowManualInput_SN>
+    <CharacterCaseType_SN>Upper</CharacterCaseType_SN>
+    <IsShowFunctionRow>True</IsShowFunctionRow>
+    <IsShowTestItemRow>False</IsShowTestItemRow>
+    <IsShowInfoBorad>True</IsShowInfoBorad>
+    <IsShowStatusBar>True</IsShowStatusBar>
+    <IsLoopTest>True</IsLoopTest>
+  </Setting>
+</CommonTest>

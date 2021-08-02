@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exception>
+  <Log>System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CommonTestFrame.Form1.GetInstrment(TestObject newTestObject) 位置 D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\Form1.cs:行号 3013
+   在 CommonTestFrame.Form1.ReadTestPlan(String SelectedTable) 位置 D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\Form1.cs:行号 379
+   在 CommonTestFrame.Form1.loadToolStripMenuItem_Click(Object sender, EventArgs e) 位置 D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\Form1.cs:行号 333</Log>
+</Exception>

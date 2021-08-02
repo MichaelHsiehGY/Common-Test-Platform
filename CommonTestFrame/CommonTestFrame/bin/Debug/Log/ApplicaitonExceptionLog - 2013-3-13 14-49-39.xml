@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exception>
+  <Log>System.IO.FileNotFoundException: 未能加载文件或程序集“file:///D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\lib\MP2100Test.dll”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“file:///D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\lib\MP2100Test.dll”
+   在 System.Reflection.Assembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, Assembly locationHint, StackCrawlMark&amp; stackMark, Boolean throwOnFileNotFound, Boolean forIntrospection)
+   在 System.Reflection.Assembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, Assembly locationHint, StackCrawlMark&amp; stackMark, Boolean throwOnFileNotFound, Boolean forIntrospection)
+   在 System.Reflection.Assembly.InternalLoad(AssemblyName assemblyRef, Evidence assemblySecurity, StackCrawlMark&amp; stackMark, Boolean forIntrospection)
+   在 System.Reflection.Assembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, StackCrawlMark&amp; stackMark)
+   在 System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   在 CommonTestFrame.Form1.functionExecute(TestObject iTestObject) 位置 D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\Form1.cs:行号 812
+   在 CommonTestFrame.Form1.ExecuteTestPlan() 位置 D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\Form1.cs:行号 740
+   在 CommonTestFrame.Form1.StartTest() 位置 D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\Form1.cs:行号 614
+
+=== 预绑定状态信息 ===
+日志: 用户 = MAIN\cn000233
+日志: Where-ref 绑定。位置 = D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\lib\MP2100Test.dll
+日志: Appbase = file:///D:/work/project/MP210x/CommonTestFrame/CommonTestFrame/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: (Unknown)。
+===
+日志: 此绑定从 LoadFrom 加载上下文开始。
+警告: 将不在 LoadFrom 上下文中探测本机映像。仅在默认加载上下文中探测本机映像，例如，使用 Assembly.Load()。
+日志: 正在使用应用程序配置文件: D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\CommonTest.vshost.exe.Config
+日志: 使用 C:\Windows\Microsoft.NET\Framework\v2.0.50727\config\machine.config 的计算机配置文件。
+日志: 试图下载新的 URL file:///D:/work/project/MP210x/CommonTestFrame/CommonTestFrame/bin/Debug/lib/MP2100Test.dll。
+</Log>
+</Exception>

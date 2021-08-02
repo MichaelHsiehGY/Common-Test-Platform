@@ -1,0 +1,32 @@
+D:\work\project\TPMS\CommonTestFrame\Organization\bin\Debug\Organization.dll
+D:\work\project\TPMS\CommonTestFrame\Organization\bin\Debug\Organization.pdb
+D:\work\project\TPMS\CommonTestFrame\bin\Debug\lib\Organization.dll
+D:\work\project\TPMS\CommonTestFrame\bin\Debug\lib\Organization.pdb
+D:\work\project\TPMS\Organization\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\TPMS\Organization\obj\Debug\Organization.dll
+D:\work\project\TPMS\Organization\obj\Debug\Organization.pdb
+D:\work\project\TPMS\CommonTestFrame\CommonTestFrame\bin\Debug\lib\Organization.dll
+D:\work\project\TPMS\CommonTestFrame\CommonTestFrame\bin\Debug\lib\Organization.pdb
+D:\work\project\TPMS\CommonTestFrame\Organization\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\TPMS\CommonTestFrame\Organization\obj\Debug\Organization.dll
+D:\work\project\TPMS\CommonTestFrame\Organization\obj\Debug\Organization.pdb
+D:\work\project\CommonTest Release\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.dll
+D:\work\project\CommonTest Release\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.pdb
+D:\work\project\CommonTest Release\CommonTestFrame\Organization\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\CommonTest Release\CommonTestFrame\Organization\obj\Debug\Organization.dll
+D:\work\project\CommonTest Release\CommonTestFrame\Organization\obj\Debug\Organization.pdb
+D:\work\project\车王电子\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.dll
+D:\work\project\车王电子\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.pdb
+D:\work\project\车王电子\CommonTestFrame\Organization\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\车王电子\CommonTestFrame\Organization\obj\Debug\Organization.dll
+D:\work\project\车王电子\CommonTestFrame\Organization\obj\Debug\Organization.pdb
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.dll
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.pdb
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\Organization\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\Organization\obj\Debug\Organization.dll
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\Organization\obj\Debug\Organization.pdb
+D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.dll
+D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\Organization.pdb
+D:\work\project\富士康MP210x\CommonTestFrame\Organization\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\富士康MP210x\CommonTestFrame\Organization\obj\Debug\Organization.dll
+D:\work\project\富士康MP210x\CommonTestFrame\Organization\obj\Debug\Organization.pdb

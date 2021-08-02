@@ -1,0 +1,10 @@
+D:\work\project\车王电子\CommonTestFrame\CommonTestFrame\bin\Debug\lib\BaseDriver.dll
+D:\work\project\车王电子\CommonTestFrame\CommonTestFrame\bin\Debug\lib\BaseDriver.pdb
+D:\work\project\车王电子\CommonTestFrame\BaseDriver\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\车王电子\CommonTestFrame\BaseDriver\obj\Debug\BaseDriver.dll
+D:\work\project\车王电子\CommonTestFrame\BaseDriver\obj\Debug\BaseDriver.pdb
+D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\lib\BaseDriver.dll
+D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\lib\BaseDriver.pdb
+D:\work\project\富士康MP210x\CommonTestFrame\BaseDriver\obj\Debug\ResolveAssemblyReference.cache
+D:\work\project\富士康MP210x\CommonTestFrame\BaseDriver\obj\Debug\BaseDriver.dll
+D:\work\project\富士康MP210x\CommonTestFrame\BaseDriver\obj\Debug\BaseDriver.pdb

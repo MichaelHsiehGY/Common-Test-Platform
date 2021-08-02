@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exception>
+  <Log>System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CommonTestFrame.Form1.ReadTestPlan(String SelectedTable) 位置 D:\work\project\车王电子\CommonTestFrame\CommonTestFrame\Form1.cs:行号 351
+   在 CommonTestFrame.Form1.RefreshTtoolStripButton_Click(Object sender, EventArgs e) 位置 D:\work\project\车王电子\CommonTestFrame\CommonTestFrame\Form1.cs:行号 493</Log>
+</Exception>

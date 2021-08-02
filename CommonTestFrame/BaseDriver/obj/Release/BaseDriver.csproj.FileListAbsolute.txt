@@ -1,0 +1,17 @@
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\BaseDriver\bin\Release\BaseDriver.dll
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\BaseDriver\bin\Release\BaseDriver.pdb
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\CommonTestFrame\bin\Debug\BaseDriver.dll
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\CommonTestFrame\bin\Debug\BaseDriver.pdb
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\BaseDriver\obj\Release\ResolveAssemblyReference.cache
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\BaseDriver\obj\Release\BaseDriver.dll
+D:\work\project\Optical Spectrum Analyzer\CommonTestFrame\BaseDriver\obj\Release\BaseDriver.pdb
+D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\BaseDriver.dll
+D:\work\project\富士康MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\BaseDriver.pdb
+D:\work\project\富士康MP210x\CommonTestFrame\BaseDriver\obj\Release\ResolveAssemblyReference.cache
+D:\work\project\富士康MP210x\CommonTestFrame\BaseDriver\obj\Release\BaseDriver.dll
+D:\work\project\富士康MP210x\CommonTestFrame\BaseDriver\obj\Release\BaseDriver.pdb
+D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\BaseDriver.dll
+D:\work\project\MP210x\CommonTestFrame\CommonTestFrame\bin\Debug\BaseDriver.pdb
+D:\work\project\MP210x\CommonTestFrame\BaseDriver\obj\Release\ResolveAssemblyReference.cache
+D:\work\project\MP210x\CommonTestFrame\BaseDriver\obj\Release\BaseDriver.dll
+D:\work\project\MP210x\CommonTestFrame\BaseDriver\obj\Release\BaseDriver.pdb
